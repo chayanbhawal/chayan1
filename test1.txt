@@ -3,3 +3,4 @@ What is this?
 This is a test for git.
 Pure
 Check
+New testing
